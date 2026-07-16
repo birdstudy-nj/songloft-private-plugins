@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/songloft-org/plugin-toolchain/main/schemas/plugin.schema.json",
+  "name": "洛雪音源",
+  "version": "2026.5.28",
+  "description": "洛雪音源 - 多平台音乐搜索、歌单管理、音源管理",
+  "author": "LX Team",
+  "homepage": "",
+  "license": "Apache-2.0",
+  "entryPath": "lxmusic",
+  "main": "main.js",
+  "minHostVersion": "2.0.0",
+  "permissions": [
+    "storage",
+    "songs.read",
+    "songs.write",
+    "playlists.read",
+    "playlists.write",
+    "jsenv"
+  ],
+  "updateUrl": "",
+  "download_url": "https://github.com/birdstudy-nj/songloft-private-plugins/releases/download/lxmusic.jsplugin_v2026.5.28/lxmusic.jsplugin_v2026.5.28.zip",
+  "entryHash": "caf4e42014c4e4ac6e15f953bbc48db0484fb74fa33cf96c0ea84ba80c2337d6",
+  "zipHash": "0a0d1dc03964d2ffb3f4d03d62cc4b59ddc4bd18d72cb58d2c72748a03d01466"
+}
