@@ -2,6 +2,7 @@
   "name": "Songloft Private Plugin Registry",
   "plugins": [
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-iwebplayer/main/plugin.json",
-    "https://raw.githubusercontent.com/birdstudy-nj/songloft-lyrics-cover-helper/main/plugin.json"
+    "https://raw.githubusercontent.com/birdstudy-nj/songloft-lyrics-cover-helper/main/plugin.json",
+    "https://raw.githubusercontent.com/hanxi/songloft-plugin-ytdlp/main/plugin.json"
   ]
 }
