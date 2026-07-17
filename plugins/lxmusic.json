@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/songloft-org/plugin-toolchain/main/schemas/plugin.schema.json",
   "name": "洛雪音源",
   "version": "2026.5.28",
-  "description": "洛雪音源 - 多平台音乐搜索、歌单管理、音源管理",
+  "description": "洛雪音源2026.5.28 - 适配iWebPlayer调用",
   "author": "LX Team",
   "homepage": "",
   "license": "Apache-2.0",
