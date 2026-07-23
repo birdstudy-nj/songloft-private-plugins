@@ -6,6 +6,6 @@
     "https://raw.githubusercontent.com/birdstudy-nj/songloft-private-plugins/refs/heads/main/plugins/lxmusic.json",
     "https://raw.githubusercontent.com/hanxi/songloft-plugin-ytdlp/main/plugin.json",
     "https://raw.githubusercontent.com/hanxi/songloft-plugin-bili/main/plugin.json",
-    "https://raw.githubusercontent.com/fly818/lxmusic-plugin-release/refs/heads/main/registry.json"
+    "https://raw.githubusercontent.com/fly818/lxmusic-plugin-release/main/plugin.json"
   ]
 }
